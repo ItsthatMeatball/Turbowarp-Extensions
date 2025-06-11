@@ -250,4 +250,4 @@
   }
 
   Scratch.extensions.register(new ServerService());
-})(Scr
+})(Scratch);

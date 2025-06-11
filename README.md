@@ -1,0 +1,1 @@
+This REPO is speficically made for Turbowarp extensions that I developed using AI. In short, these extensions are custom extensions made by me and AI in order to elevate my possible things that can be achieved on Turbowarp.

@@ -1,5 +1,3 @@
-// Data Demand TurboWarp Extension
-// Author: ChatGPT + Nigel (🔥 Dev Energy)
 (function(Scratch) {
   "use strict";
 
